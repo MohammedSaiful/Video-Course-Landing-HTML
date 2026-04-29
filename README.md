@@ -3,7 +3,8 @@
 
 #  Live Demo
 - View the live version of this project here: 
-| Restaurant    | [Live Demo](https://html-css-resturant-task-4.vercel.app/)
+ Tutor Project   | [Live Demo](https://tutor-project-section-17and18.vercel.app/) 
+
 
 
 ## Features
